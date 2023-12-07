@@ -1,6 +1,6 @@
-# [Your Project Name]
+# Kickstarter scraping project
 
-🚀 Welcome to the [Your Project Name] experience - where innovation meets simplicity! 🚀
+🚀 Welcome to the Kickstarter scraping project experience - where innovation meets simplicity! 🚀
 
 ## Requirements
 
