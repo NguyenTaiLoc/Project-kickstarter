@@ -43,4 +43,4 @@ Start the react app
 
 Default project check on kickstarter page every 5 minute on your project
 
-***Update link project and selector baseon your kickstarter project page**
+***Update link project and selector base on your kickstarter project page**
