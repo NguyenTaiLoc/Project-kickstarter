@@ -40,3 +40,7 @@ Start the react app
 ```bash
    npm start
 ```
+
+Default project check on kickstarter page every 5 minute on your project
+
+***Update link project and selector baseon your kickstarter project page**
