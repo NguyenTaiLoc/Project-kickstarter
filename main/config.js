@@ -6,6 +6,6 @@ module.exports = {
       userName: 'root',
     },
     slack: {
-      slackWebHookURL: 'https://hooks.slack.com/services/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',
+      slackWebHookURL: 'https://hooks.slack.com/services/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',
     },
   };
