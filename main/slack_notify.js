@@ -5,6 +5,7 @@ const config = require('./config');
 const slackWebhookUrl = config.slack.slackWebHookURL;
 
 async function sendSlackNotification(message) {
+  console.log(config.slack.slackWebHookURL);
   try {
     const response = await axios.post(slackWebhookUrl, {
       text: message,
